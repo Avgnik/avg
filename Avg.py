@@ -48,22 +48,21 @@ def baliho():
 		name = a['name']
 		n.append(a['name'])
 
-		print R + '_     _'center(44)
-		print "o' \.=./ `o".center(44)
-		print '(o o)'.center(44)
-		print 'ooO--(_)--Ooo'.center(44)
-		print ' ' + W
-		print ('[*] ' + name + ' [*]').center(44)
+		print R + 'india'center(44)
+		print "hackers".center(44)
+		print '(group)'.center(44)
+		print 'devloper'.center(44)
+		print 'avg_rock69' + W
+		print ('[*] ' + Avg_rock69 ' [*]').center(44)
 		print ' '
 
-	except (KeyError,IOError):
-		print R + '_     _'.center(44)
-		print "o' \.=./ `o".center(44)
-		print '(o o)'.center(44)
-		print 'ooO--(_)--Ooo'.center(44)
-		print ' ' + W
+	except print R + 'india'center(44)
+		print "hackers".center(44)
+		print '(group)'.center(44)
+		print 'devloper'.center(44)
+		print 'avg_rock69' + W
 		print ('O S I F').center(44)
-		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
+		print (W + '     [' + G+'Open Source Information Facebook'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
