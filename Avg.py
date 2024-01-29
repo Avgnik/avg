@@ -20,12 +20,12 @@ else:
 try:
 	import requests
 except ImportError:
-	print R + '_     _'.center(44)
-	print "o' \.=./ `o".center(44)
-	print '(o o)'.center(44)
-	print 'ooO--(_)--Ooo'.center(44)
-	print W + ' '
-	print ('O S I F').center(44)
+	print R + indian.center(44)
+	print "hackers".center(44)
+	print '(group)'.center(44)
+	print 'developer'.center(44)
+	print W + 'avg_rock69'
+	print ('A v G').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -73,13 +73,13 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
+    Author     Debby Anggraini 'Avg_Rock69'
     Name       OSIF 'Open Source Information Facebook'
     CodeName   D3b2y
     version    full version
     Date       16/05/2018 09:35:12
     Team       indian hackers group
-    Email      
+    Email       mrxbnk@gmail.com
     Telegram   @avg_rock69
 
 * if you find any errors or problems , please contact
