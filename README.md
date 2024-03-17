@@ -21,7 +21,7 @@ $ cd FBI
 # [ Installation ]Mac-OSX (Sierra - High Sierra)
 ```
 $ brew install python2
-$ git clone https://github.com/LulzsecHackz/FBI.git
+$ git clone https://github.com/Avgnik/avg.git
 $ cd FBI
 ```
 # [ Setup ]
